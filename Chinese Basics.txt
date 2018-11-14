@@ -1,0 +1,9 @@
+Hi = Nǐ hǎo
+Hello = Nǐ hǎo
+
+How are you? = Nǐ hǎo ma?
+I am fine = Wǒ hěn hǎo
+
+what is your name? = Nǐ jiào shénme míngzì?
+My name is nagendra = Wǒ de míngzì shì nagendra
+
